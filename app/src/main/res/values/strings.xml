@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EVChargingStationFinder</string>
+    <string name="fab_description">Find Charging Station</string>
+</resources>
